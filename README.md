@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Minh Duc (Denis), a passionate software developer with about 2 years of experience. I enjoy building efficient, scalable, and testable code. My focus is on creating solutions that make a difference, whether it’s through front-end, back-end, or full-stack development. I’m always eager to learn new technologies and improve my skills. Feel free to explore my repositories and reach out if you’d like to collaborate!<br>
+👋 Hi, I’m Minh Duc (Denis), a passionate software developer with about 3 years of experience. I enjoy building efficient, scalable, and testable code. My focus is on creating solutions that make a difference, whether it’s through front-end, back-end, or full-stack development. I’m always eager to learn new technologies and improve my skills. Feel free to explore my repositories and reach out if you’d like to collaborate!<br>
 
 
 ## 🌐 Socials:
